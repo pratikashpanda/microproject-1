@@ -1,0 +1,3 @@
+bg color = #FFCD9E
+
+text color = #484848
